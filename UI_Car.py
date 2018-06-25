@@ -19,14 +19,16 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 
     def setH(self):
         h=self.horizontalSlider.value()
-        ser.write(str(h).encode())
-        #ser.write(b'v-')
-        time.sleep(0.05)
+        strh='H' + str(h) + '\n'
+        print(strh)
+        ser.write(strh.encode())
+        time.sleep(0.06)
     def setV(self):
         v=self.verticalSlider.value()
-        ser.write(str(v).encode())
+        strv='v' + str(v) + '\n'
+        ser.write(strv.encode())
         #ser.write(b'v+')
-        time.sleep(0.05)
+        time.sleep(0.06)
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
