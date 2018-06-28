@@ -7,8 +7,14 @@ from PyQt5.QtWidgets import *
 import os
 import serial
 import time
+from picamera import PiCamera
+camera = PiCamera()
+camera.resolution=(2592,1944)
+camera.start_preview()
 
 ser=serial.Serial("/dev/ttyACM0",115200)
+
+a=0
 
 class MainWindow(QMainWindow, Ui_MainWindow):
     def __init__(self, parent=None):
@@ -29,6 +35,9 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         ser.write(strv.encode())
         #ser.write(b'v+')
         time.sleep(0.06)
+        if a==0:
+            camera.stop_preview()
+            a=1
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

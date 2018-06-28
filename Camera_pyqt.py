@@ -1,21 +1,27 @@
 import sys
 import cv2
-form PyQt5.QtWidgets import QAppolication, QDialog
+from PyQt5.QtWidgets import QApplication, QDialog
 from PyQt5.uic import loadUi
+from PyQt5.QtGui import *
+from PyQt5.QtCore import *
+from PyQt5.QtWidgets import *
+import os
+from camera import *
 
-class Life2Coding(QDialog):
-    def __init__(self):
-        super(Life2Coding,self).__init__()
-        loadUi('life2coding.ui',self)
+class MainWindow(QMainWindow, Ui_MainWindow):
+    def __init__(self, parent=None):
+        super(MainWindow, self).__init__(parent)
+        self.setupUi(self)
+        
         self.image=None
-        self.startButton.clicked.connected(self.start_webcam)
+        self.startButton.clicked.connect(self.start_webcam)
         self.stopButton.clicked.connect(self.stop_webcam)
 
 
     def start_webcam(self):
         self.capture=cv2.VideoCapture(0)
-        self.capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
-        self.capture.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+        self.capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 240)
+        self.capture.set(cv2.CAP_PROP_FRAME_WIDTH, 320)
 
         self.timer=QTimer(self)
         self.timer.timeout.connect(self.update_frame)
@@ -33,7 +39,7 @@ class Life2Coding(QDialog):
             if img.shape[2]==4:
                 qformat=QImage.Foramt_RGBA8888
             else:
-                qformat=QImage.Format_RGB8888
+                qformat=QImage.Format_RGB888
 
         outImage=QImage(img,img.shape[1],img.shape[0],img.strides[0],qformat)
 
@@ -41,11 +47,10 @@ class Life2Coding(QDialog):
 
         if window == 1:
             self.imgLabel.setPixmap(QPixmap.fromImage(outImage))
-            self.imgLabel.setScaledContesnts(True)
+            self.imgLabel.setScaledContents(True)
 
-
-if __name__=='__main__':
-    app=QApplication(sys.argv)
-    window=Life2Coding()
-    window.setWindowTitle('Camera Test')
+if __name__ == "__main__":
+    app = QApplication(sys.argv)
+    window = MainWindow()
     window.show()
+    sys.exit(app.exec_())

@@ -15,7 +15,8 @@ int PWM_val_R = 0;
 int speed_req_L = 300; 
 int PWM_val_L = 0; 
 float Kp =   .4;                                // PID proportional control Gain
-float Kd =    1;  
+float Kd =    1; 
+String speed_Rasp ;
 
 const byte IN1 = 6;   // 馬達B 的正反轉接腳編號
 const byte IN2 = 5;
@@ -69,16 +70,19 @@ static long countAnt_L = 0;
 }
 
 int getParam2(){
-  String speed_tmp ;
-  speed_tmp="";
+  
+  speed_Rasp="";
   char s ;
   while(Serial.available()>0){
     s = Serial.read();
     if (s != '\n'){
-      speed_tmp += s;
+      speed_Rasp += s;
+    }
+    else{
+       Serial.println(speed_tmp);
     }
   }
-  Serial.println(speed_tmp);
+  delay(5);
 }
 
 int getParam()  {
