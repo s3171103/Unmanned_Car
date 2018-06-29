@@ -7,8 +7,11 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 import os
 from camera import *
+import serial
+import time
 
 ser=serial.Serial("/dev/ttyACM0",115200)
+
 
 class MainWindow(QMainWindow, Ui_MainWindow):
     def __init__(self, parent=None):
@@ -34,9 +37,6 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         ser.write(strv.encode())
         #ser.write(b'v+')
         time.sleep(0.06)
-        if a==0:
-            camera.stop_preview()
-            a=1
 
 
     def start_webcam(self):
