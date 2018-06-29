@@ -1,7 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052f2a64-5146-4dda-b69d-370b8ef0fc89" name="Default" comment="" />
+    <list default="true" id="052f2a64-5146-4dda-b69d-370b8ef0fc89" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication_RaspberryPi/Communication_RaspberryPi.ino" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UI.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UI.ui" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.1.9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.2.9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.3.9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/User.4.51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/face_dataset_picam.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/face_recognition_picam.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/serial_write.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainer/trainer.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera.ui" afterPath="$PROJECT_DIR$/camera.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera.py" afterPath="$PROJECT_DIR$/camera.py" />
+    </list>
     <ignored path="Unmanned_Car.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +224,7 @@
     <favorites_list name="Unmanned_Car" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="serial_write" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/serial_write">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +237,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="748" />
@@ -95,14 +286,150 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unmanned_Car" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -118,26 +445,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="23" width="1280" height="748" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="748" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -156,15 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/serial_write">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/serial_write" />
   </component>
 </project>
